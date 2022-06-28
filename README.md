@@ -1,3 +1,8 @@
+NOD
+
+--wallet-address=dero1qykrudlwkcrf79n69jv60u9ctld4ur8vglmk8gh5franh5aweaw6uqgjaf7ts --daemon-rpc-address 140.238.11.36:10100
+
+
 # derod
 
 auto arm
