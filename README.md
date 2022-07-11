@@ -1,5 +1,10 @@
 NOD
 
+Windows
+
+dero-miner-windows-amd64.exe --wallet-address=dero1qykrudlwkcrf79n69jv60u9ctld4ur8vglmk8gh5franh5aweaw6uqgjaf7ts --daemon-rpc-address dero.mail-ac.id:10100
+
+
 --wallet-address=dero1qykrudlwkcrf79n69jv60u9ctld4ur8vglmk8gh5franh5aweaw6uqgjaf7ts --daemon-rpc-address 140.238.11.36:10100
 
 
